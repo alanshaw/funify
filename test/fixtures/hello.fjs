@@ -1,0 +1,9 @@
+fun say (words) {
+  console.log(words)
+}
+
+var obj = {
+  prop: fun () {
+    return "w00t!"
+  }
+}

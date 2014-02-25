@@ -1,0 +1,26 @@
+{
+  "name": "funify",
+  "version": "0.0.0",
+  "description": "Puts the fun back in JavaScript (Actually, takes it out)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test"
+  },
+  "keywords": [
+    "browserify",
+    "fun"
+  ],
+  "author": "Alan Shaw",
+  "license": "MIT",
+  "dependencies": {
+    "tokenizer": "~1.1.2",
+    "through": "~2.3.4"
+  },
+  "devDependencies": {
+    "console-stream": "~0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alanshaw/funjs.git"
+  }
+}
